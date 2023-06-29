@@ -1,9 +1,14 @@
 # Robinhood
 ![image](https://9to5mac.com/wp-content/uploads/sites/6/2021/01/Robinhood-App.jpg?quality=82&strip=all)
 
+
+## Table of Contents 
 *[Company Background](#company-background)
 *[Competitive Background](#competitive-environment)
 *[How is the technology utilised](#how-is-the-technology-utilised)
+*[Operational Background](#operational-background)
+*[Future Outlook](#Future)
+
 
 ## Company Background
 What is the background of your company?

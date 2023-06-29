@@ -3,11 +3,11 @@
 
 
 ## Table of Contents 
-*[Company Background](#company-background)
-*[Competitive Background](#competitive-environment)
-*[How is the technology utilised](#how-is-the-technology-utilised)
-*[Operational Background](#operational-background)
-*[Future Outlook](#Future)
+* [Company Background](#company-background)
+* [Competitive Background](#competitive-environment)
+* [How is the technology utilised](#how-is-the-technology-utilised)
+* [Operational Background](#operational-background)
+* [Future Outlook](#Future)
 
 
 ## Company Background
